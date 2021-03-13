@@ -1,1 +1,1 @@
-# LinearRegression-Scratch-vsNumpyvsPytorch
+# LinearRegression-ScratchvsNumpyvsPytorch
